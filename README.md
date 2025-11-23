@@ -1,10 +1,16 @@
 ## 👋 Hello! I'm Manuel Martinez
 
-![Static Badge](https://img.shields.io/badge/Systems%20Enginner-F9F8F6?style=for-the-badge&logoColor=000&label=!&labelColor=C9B59C)
-
-![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-3C0753?style=flat)
+![Static Badge](https://img.shields.io/badge/Systems_Enginner-C9B59C?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Full%20stack%20developer-C9B59C?style=for-the-badge)
 
 I'm a student and developer, constantly learning and passionate about creating real-world software solutions. I love web applications, mobile development, systems simulation, and everything related to servers, databases, and automation.
+
+---
+
+### Language
+
+![Static Badge](https://img.shields.io/badge/Spanish-F9F8F6?style=for-the-badge&label=high&labelColor=EFE9E3)
+![Static Badge](https://img.shields.io/badge/English-F9F8F6?style=for-the-badge&label=Middle&labelColor=EFE9E3)
 
 ---
 
