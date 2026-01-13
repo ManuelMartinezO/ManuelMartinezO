@@ -1,10 +1,11 @@
-![copia portada](https://github.com/user-attachments/assets/752212d4-bdf7-454a-b47e-78c63db81114)
-## 👋 Hello! I'm Manuel Martinez
+# 👋 Hello! I'm Manuel Martinez
 
 ![Static Badge](https://img.shields.io/badge/Systems_Enginner-FFFADC?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Full%20stack%20developer-B6F500?style=for-the-badge)
 
 I'm a student and developer, constantly learning and passionate about creating real-world software solutions. I love web applications, mobile development, systems simulation, and everything related to servers, databases, and automation.
+
+![copia portada](https://github.com/user-attachments/assets/752212d4-bdf7-454a-b47e-78c63db81114)
 
 ---
 
