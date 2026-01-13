@@ -1,3 +1,4 @@
+![IMG_20260113_093245](https://github.com/user-attachments/assets/68c6eefd-22df-4b6d-83a3-4cdc5e381072)
 ## 👋 Hello! I'm Manuel Martinez
 
 ![Static Badge](https://img.shields.io/badge/Systems_Enginner-FFFADC?style=for-the-badge)
